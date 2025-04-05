@@ -1,1 +1,3 @@
-maithili
+Maithili
+ git config --global user.email maithilipande117@gmail.com
+  git config --global user.name Maithili117
